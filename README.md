@@ -20,7 +20,11 @@
             ...
         </dependencies>
         ```
-- MySQL Install
+- MySQL Installation
+    - Install MySQL: 
+        - [Tutorial](https://www.youtube.com/watch?v=UcpHkYfWarM)
+    - MySQL IDE: Navicat Premium
+        - [How to connect Navicat with MySQL server](https://www.youtube.com/watch?v=Ky-CGWMbdqw)
 - Kafka Documentation(Version: kafka_2.11-2.4.0)
     - Starting Kafka Zookeeper: 
         > bin/zookeeper-server-start.sh config/zookeeper.properties
